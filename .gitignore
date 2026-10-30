@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated training outputs
+*.pt
+*.npz
+model_comparison.csv
+accuracy_chart.png
+confusion_matrix.png
+csi_samples.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
